@@ -3,9 +3,9 @@
 
 ---
 ### Main window
-<img src="https://github.com/Araik1/Tic-Tac-Toe_ASM/blob/master/img/mainWindow.png" width="40%" height="40%"/>
+<img src="https://github.com/Araik1/Tic-Tac-Toe_ASM/blob/master/img/mainWindow.png" width="40%" height="100%"/>
 
 
 ---
 ### Message of victory
-<img src="https://github.com/Araik1/Tic-Tac-Toe_ASM/blob/master/img/mesWin.png" width="40%" height="40%"/>
+<img src="https://github.com/Araik1/Tic-Tac-Toe_ASM/blob/master/img/mesWin.png" width="40%" height="100%"/>
